@@ -1,0 +1,11 @@
+Dette er en "Bipartitt" graf-representasjon. 
+
+I denne implementasjonen er både filmer og skuespillere representert som noder,
+og forbindelsene (kantene) er mellom skuespillere og de filmene de har deltatt i. 
+Dette er kjent som en bipartitt graf (bipartite graph), der noder er delt inn i 
+to disjunkte sett: filmer og skuespillere, og kantene går kun mellom de to 
+settene, ikke innad i et sett. 
+
+Mappenavnet kunne derfor være: 
+* Bipartite_Graph_Implemenetation 
+* Actor_Movie_Bipartite_Graph 

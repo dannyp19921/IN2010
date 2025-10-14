@@ -1,0 +1,14 @@
+Projisert graf (Projection graph): 
+
+Denne implementasjonen er ment å beskrive en graf hvor kun skuespillere er representert 
+som noder, og kantene representerer forbindelsene mellom skuespillere som 
+har spilt sammen i en film. Her er filmene implisitt og brukes kun som forbindelser
+mellom skuespillerne, ikke som egne noder. 
+
+Dette kan kalles en projisert graf, spesielt en projeksjon fra en bipartitt graf 
+der kun skuespillerne er beholdt som noder, og filmene brukes til å etablere forbindelser (kanter) mellom dem. 
+
+Mappenavnet kunne derfor være: 
+*Actor_Projection_Graph_Implementation 
+*CoActor_Graph_Implementation 
+
